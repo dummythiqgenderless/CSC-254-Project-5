@@ -5,7 +5,6 @@ Project link can be found here: https://www.cs.rochester.edu/courses/254/fall201
 
 
 Tongtong Qiu and Rukimani PV 
-
 Monday, November 25th, 2019 
 
 
