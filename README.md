@@ -1,4 +1,7 @@
-# CSC 254 Project-5: Concurrency- Implemented anti-deadlock strategies to the classic Dining Philosophers Problem. 
+# CSC 254 Project 5: Concurrency
+
+Implemented anti-deadlock strategies to the classic Dining Philosophers Problem. 
+Project link can be found here: https://www.cs.rochester.edu/courses/254/fall2019/assignments/java.shtml
 
 
 Tongtong Qiu and Rukimani PV 
